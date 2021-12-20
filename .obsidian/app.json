@@ -1,0 +1,10 @@
+{
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "vimMode": true,
+  "spellcheck": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true
+}
